@@ -1,7 +1,8 @@
 💱 Currency Converter
+<br>
 📝 Project Overview
 This is a Currency Converter built using HTML, CSS, and JavaScript. It allows users to convert between different currencies in real-time using the latest exchange rates.
-
+<br>
 ⭐ Key Features
 🔹 Real-Time Currency Conversion – Get updated exchange rates instantly.
 
@@ -12,8 +13,9 @@ This is a Currency Converter built using HTML, CSS, and JavaScript. It allows us
 🔹 Validation for Input Amount – Ensures a minimum valid amount is entered.
 
 🔹 Stylish & Responsive Design – Works on all screen sizes with a user-friendly interface.
-
+<br>
 🛠 Technologies Used
+<br>
 ✅ HTML5 – Structuring the converter interface.
 
 ✅ CSS3 – Styling the layout and improving UI elements.
@@ -22,15 +24,20 @@ This is a Currency Converter built using HTML, CSS, and JavaScript. It allows us
 
 ✅ Currency API – Fetches the latest exchange rates dynamically.
 
-📂 Code Structure
+📂 Code Structure <br>
 plaintext
 Copy
 Edit
-📁 Currency-Converter/  
+<br>
+📁 Currency-Converter/  <br>
 ├── 📜 index.html  # Main HTML file  
 ├── 🎨 currency.css  # CSS for styling  
-└── ⚙️ currency.js  # JavaScript for logic  
+└── ⚙️ currency.js  # JavaScript for logic 
+
+<br>
+
 🔍 How It Works
+<br>
 1️⃣ User enters an amount in the input field.
 
 2️⃣ Select currencies from the dropdowns (default: USD to INR).
