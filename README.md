@@ -1,9 +1,16 @@
 💱 Currency Converter
 <br>
+<br>
 📝 Project Overview
+<br>
+<br>
 This is a Currency Converter built using HTML, CSS, and JavaScript. It allows users to convert between different currencies in real-time using the latest exchange rates.
 <br>
+<br>
+<br>
 ⭐ Key Features
+<br>
+<br>
 🔹 Real-Time Currency Conversion – Get updated exchange rates instantly.
 
 🔹 Automatic Flag Updates – Country flags change dynamically based on the selected currency.
@@ -14,8 +21,12 @@ This is a Currency Converter built using HTML, CSS, and JavaScript. It allows us
 
 🔹 Stylish & Responsive Design – Works on all screen sizes with a user-friendly interface.
 <br>
+<br>
+
 🛠 Technologies Used
 <br>
+<br>
+
 ✅ HTML5 – Structuring the converter interface.
 
 ✅ CSS3 – Styling the layout and improving UI elements.
@@ -25,11 +36,17 @@ This is a Currency Converter built using HTML, CSS, and JavaScript. It allows us
 ✅ Currency API – Fetches the latest exchange rates dynamically.
 
 📂 Code Structure <br>
+<br>
+<br>
 plaintext
 Copy
 Edit
 <br>
-📁 Currency-Converter/  <br>
+<br>
+
+📁 Currency-Converter/  
+<br>
+<br>
 ├── 📜 index.html  # Main HTML file  
 ├── 🎨 currency.css  # CSS for styling  
 └── ⚙️ currency.js  # JavaScript for logic 
@@ -37,6 +54,8 @@ Edit
 <br>
 
 🔍 How It Works
+<br>
+<br>
 <br>
 1️⃣ User enters an amount in the input field.
 
@@ -49,8 +68,11 @@ Edit
 5️⃣ Swap functionality allows users to quickly switch between currencies.
 
 6️⃣ Flags update dynamically based on selected currencies.
-
+<br>
+<br>
 🚀 Future Improvements
+<br>
+<br>
 ✨ Add more currencies for wider global support.
 
 📊 Show historical exchange rate trends with graphs.
